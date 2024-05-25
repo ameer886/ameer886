@@ -2,7 +2,7 @@
 
 
 ### About Me:
-- :metal: I’m a Computer Science major at [The University of Texas at Austin](https://www.cs.utexas.edu/)
+- :metal: I’m graduated from [The University of Texas at Austin](https://www.cs.utexas.edu/) with s Bachelor's Degree in Computer Science
 - 👀 I’m interested in Software Development, Artificial Intelligence, and Mobile Development
 - :briefcase: I’m looking actively applying for Software Development Engineer Internship for Summer 2022
 
