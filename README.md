@@ -3,7 +3,7 @@
 
 ### About Me:
 - :metal: I’m graduated from [The University of Texas at Austin](https://www.cs.utexas.edu/) with a Bachelor's Degree in Computer Science
-- 👀 I’m interested in Software Development, Artificial Intelligence, and Mobile Development
+- 👀 I’m a Full-Stack Software Engineer (Back-end Focused)
 - :briefcase: I recently left Chime and am looking for new SWE opportunities in other industries!
 
 
