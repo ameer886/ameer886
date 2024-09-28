@@ -2,7 +2,7 @@
 
 
 ### About Me:
-- :metal: Class of 2022 Graduate from [The University of Texas at Austin](https://www.cs.utexas.edu/) with a Bachelor's Degree in Computer Science
+- :metal: University of Texas at Austin, Computer Science '22
 - 👀 I’m a Full-Stack Software Engineer (Back-end Focused)
 - :briefcase: I am currently working at Rippling on the Benefits Admin team!
 
