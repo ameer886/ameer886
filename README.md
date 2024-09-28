@@ -2,9 +2,9 @@
 
 
 ### About Me:
-- :metal: I’m graduated from [The University of Texas at Austin](https://www.cs.utexas.edu/) with a Bachelor's Degree in Computer Science
+- :metal: Class of 2022 Graduate from [The University of Texas at Austin](https://www.cs.utexas.edu/) with a Bachelor's Degree in Computer Science
 - 👀 I’m a Full-Stack Software Engineer (Back-end Focused)
-- :briefcase: I recently left Chime and am looking for new SWE opportunities in other industries!
+- :briefcase: I am currently working at Rippling on the Benefits Admin team!
 
 
 ### Contact:
