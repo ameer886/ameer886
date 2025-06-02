@@ -3,8 +3,7 @@
 
 ### About Me:
 - :metal: University of Texas at Austin, Computer Science '22
-- 👀 I’m a Full-Stack Software Engineer (Back-end Focused)
-- :briefcase: I am currently working at Rippling on the Benefits Admin team!
+- :briefcase: I am currently working at Rippling on the Identity team!
 
 
 ### Contact:
